@@ -2,7 +2,6 @@
 
 
 
-# TrafficSignRecognition
 Traffic signs are an integral part of our road infrastructure. Traffic signs are road facilites that convey, guide, restrict, warn or instruct information using words or symbols. Traffic sign recognition plays an important role in expert systems such as traffic assistance driving systems and automatic driving systems.
 
 You all must have heard about the self-driving cars in which the passengers can fully depend on the car for travelling. But to achieve level 5 autonomous, it is necessary for vehicles to understand and follow traffic rules. With the development of automative intelligent technology famous car companies, such as BMW, Mercedes-Benz, Audi are investing on ADAS(Advanced Driver Assistance System) research. ADAS includes TRS(Traffic Recognition System) along with some other advanced traffic assistance systems.
@@ -23,6 +22,13 @@ A CNN(Convolutional Neural Network) model is trained on the dataset, as CNN is b
 # Following is the architecture of the CNN model :
 
 2 Conv2D layers with filter = 32, kernel size = (5,5) and activation function as relu. Maxpool2D layer with pool size = (2,2) A Dropout layer with rate = 0.25 2 Conv2D layers with filter = 64, kernel size = (3,3) and activation function as relu. Maxpool2D layer with pool size = (2,2) A Dropout layer with rate = 0.25 Flatten layer to squeeze the layers into one dimension. A Dense fully connected layer with 256 nodes and relu as activation function. Dropout layer with rate as 0.5 At last a Dense layer with 43 nodes and Sigmoid as activation function.
+
+
+
+
+
+
+
 
 
 an CODING BOTS initiative
