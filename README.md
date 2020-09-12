@@ -5,7 +5,7 @@
 Traffic signs are an integral part of our road infrastructure. Traffic signs are road facilites that convey, guide, restrict, warn or instruct information using words or symbols. Traffic sign recognition plays an important role in expert systems such as traffic assistance driving systems and automatic driving systems.
 
 You all must have heard about the self-driving cars in which the passengers can fully depend on the car for travelling. But to achieve level 5 autonomous, it is necessary for vehicles to understand and follow traffic rules. With the development of automative intelligent technology famous car companies, such as BMW, Mercedes-Benz, Audi are investing on ADAS(Advanced Driver Assistance System) research. ADAS includes TRS(Traffic Recognition System) along with some other advanced traffic assistance systems.
-
+<br>
 # what is traffic sign recognition ?
 Traffic sign recognition is a process of classifying a traffic sign into different categories. Traffic-sign recognition (TSR) is a technology by which a vehicle is able to recognize the traffic signs put on the road e.g. "speed limit" or "children" or "turn ahead". This is part of the features collectively called ADAS. The technology is being developed by a variety of automotive suppliers. It uses image processing techniques to detect the traffic signs. The detection methods can be generally divided into color based, shape based and learning based methods.
 
@@ -26,7 +26,7 @@ A CNN(Convolutional Neural Network) model is trained on the dataset, as CNN is b
 
 
 
-
+<br><br><br><br><br>
 
 
 
