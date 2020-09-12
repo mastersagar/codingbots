@@ -34,4 +34,4 @@ A CNN(Convolutional Neural Network) model is trained on the dataset, as CNN is b
 
 
 
-<hr>an CODING BOTS initiative
+<hr>An CODING BOTS initiative
